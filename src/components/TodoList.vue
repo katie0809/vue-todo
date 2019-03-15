@@ -1,10 +1,8 @@
 <template>
-  <div id="app"></div>
+  <div>list</div>
 </template>
 
 <script>
-// 컴포넌트를 불러온다
-
 export default {};
 </script>
 

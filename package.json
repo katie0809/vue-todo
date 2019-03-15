@@ -1,6 +1,7 @@
 {
   "name": "vue-todo",
   "version": "0.1.0",
+  "author": "kyungim.lee<kyungim.lee@koscom.co.kr>",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
